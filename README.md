@@ -1,0 +1,4 @@
+chromeapp
+=========
+
+Chrome Apps example
